@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Prueba_Login",
+  "main": "Test",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open" 
+  },
+  "keywords": [
+    "Prueba1",
+    "login"
+  ],
+  "author": "Yadzin Jarillo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
